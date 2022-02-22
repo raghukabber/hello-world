@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h3> Raghavendra K</h3>
+    <h3> Enter employee detailes</h3>
     <p>Please fill in this form to create an New account.</p>
     <hr>
      
@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>9886878126</b></label>
+    <label for="mobile"><b>Enter mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 

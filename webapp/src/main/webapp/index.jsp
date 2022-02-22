@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user123 Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h3> Enter New user Register for DevOps Learning</h3>
+    <p>Please fill in this form to create an New account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -12,11 +12,11 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email123121321321321212121321</b></label>
+    <label for="email"><b>Enter Email Mail ID </b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b> Enter password Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h3> Thank you Happy Learning </h3>
 
   
 </form>
